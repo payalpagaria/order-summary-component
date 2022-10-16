@@ -7,7 +7,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: 
-- Live Site URL: 
+- Live Site URL: https://payalpagaria.github.io/order-summary-component/
 
 
 ### Built with
